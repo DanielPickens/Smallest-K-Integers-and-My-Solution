@@ -19,6 +19,6 @@ The result can be in any order, [2, 1, 3, 2] is also a correct answer
  Step # 1 / 2
 Sort the array for nums
  Step # 2 / 2
-Return first k items from the nums functon
+Return first k items from the nums function
 
 
